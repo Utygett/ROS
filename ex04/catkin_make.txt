@@ -1,0 +1,37 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/nightwalker/catkin_ws/devel
+-- Using CMAKE_PREFIX_PATH: /home/nightwalker/catkin_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /home/nightwalker/catkin_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/nightwalker/catkin_ws/build/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.29
+-- BUILD_SHARED_LIBS is on
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 1 packages in topological order:
+-- ~~  - tygett
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'tygett'
+-- ==> add_subdirectory(tygett)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nightwalker/catkin_ws/build
+Base path: /home/nightwalker/catkin_ws
+Source space: /home/nightwalker/catkin_ws/src
+Build space: /home/nightwalker/catkin_ws/build
+Devel space: /home/nightwalker/catkin_ws/devel
+Install space: /home/nightwalker/catkin_ws/install
+####
+#### Running command: "cmake /home/nightwalker/catkin_ws/src -DCATKIN_DEVEL_PREFIX=/home/nightwalker/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nightwalker/catkin_ws/install -G Unix Makefiles" in "/home/nightwalker/catkin_ws/build"
+####
+####
+#### Running command: "make -j4 -l4" in "/home/nightwalker/catkin_ws/build"
+####
