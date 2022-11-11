@@ -1,2 +1,2 @@
 # ROS
-All ROS things
+ROS Basics Intensive
